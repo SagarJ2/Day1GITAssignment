@@ -1,6 +1,9 @@
 
 wertyuiop[hii
 this file contain some text content
-Added content
+Added content 
+new line added:wq
+:wq
+
 :wq
 
